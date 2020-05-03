@@ -1,4 +1,6 @@
 # crackers-api
 # Application used - Express js
 # JWT integration
-# Password save using Bcrypt
+JWT , expressJWT validator 
+#Password save in DB using Bcrypt Method
+
